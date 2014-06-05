@@ -13,8 +13,4 @@ plot1 <- function() {
 
 	# Turn off the Graphics Device
 	dev.off()
-<<<<<<< HEAD
 }
-=======
-}
->>>>>>> FETCH_HEAD
